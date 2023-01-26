@@ -10,6 +10,7 @@
 
 #### 工具
 
+- [chalk](https://github.com/chalk/chalk.git) - 一个美化命令行终端输出的字符串的工具
 - [prompts](https://github.com/terkelg/prompts.git) - 一个轻量、好看且对用户友好的命令行交互工具
 - [serve](https://github.com/vercel/serve.git) - 一个部署静态文件站点服务的工具
 
