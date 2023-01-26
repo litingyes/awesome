@@ -11,6 +11,7 @@
 #### Tool
 
 - [prompts](https://github.com/terkelg/prompts.git) - Lightweight, beautiful and user-friendly interactive prompts
+- [serve](https://github.com/vercel/serve.git) - Static file serving and directory listing
 
 ## Additional
 
