@@ -13,6 +13,7 @@
 - [chalk](https://github.com/chalk/chalk.git) - 一个美化命令行终端输出的字符串的工具
 - [prompts](https://github.com/terkelg/prompts.git) - 一个轻量、好看且对用户友好的命令行交互工具
 - [serve](https://github.com/vercel/serve.git) - 一个部署静态文件站点服务的工具
+- [vditor](https://github.com/Vanessa219/vditor.git) - 一款浏览器端的 Markdown 编辑器
 
 ## 附加推荐
 
