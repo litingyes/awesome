@@ -8,6 +8,11 @@
 
 ### Front End
 
+#### Font
+
+- [smiley-sans](https://github.com/atelier-anchor/smiley-sans) - A Chinese black body that seeks a balance between humanistic perception and geometric features
+- [LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An open-source Chinese font derived from Fontworks' Klee One
+
 #### Tool
 
 - [chalk](https://github.com/chalk/chalk.git) -  Terminal string styling done right

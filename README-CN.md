@@ -8,6 +8,11 @@
 
 ### 前端
 
+#### 字体
+
+- [smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 一款在人文观感和几何特征中寻找平衡的中文黑体
+- [LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生
+
 #### 工具
 
 - [chalk](https://github.com/chalk/chalk.git) - 一个美化命令行终端输出的字符串的工具
