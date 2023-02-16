@@ -14,6 +14,10 @@
 - [LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生
 - [chinese-free-web-font-storage](https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch) - 一个放置中文免费 web 字体的库
 
+### 测试
+
+- [playwright](https://github.com/microsoft/playwright) - 一个 Web e2e 测试框架
+
 #### 工具
 
 - [chalk](https://github.com/chalk/chalk.git) - 一个美化命令行终端输出的字符串的工具
