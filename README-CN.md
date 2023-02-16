@@ -17,6 +17,7 @@
 ### 测试
 
 - [playwright](https://github.com/microsoft/playwright) - 一个 Web e2e 测试框架
+- [vitest](https://github.com/vitest-dev/vitest) - 一个基于 Vite 的单元测试框架
 
 #### 工具
 

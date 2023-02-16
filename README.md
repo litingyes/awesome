@@ -17,6 +17,7 @@
 ### Test
 
 - [playwright](https://github.com/microsoft/playwright) - A framework for Web Testing and Automation
+- [vitest](https://github.com/vitest-dev/vitest) - A Vite-native test framework. It's fast!
 
 #### Tool
 
