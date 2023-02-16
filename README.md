@@ -12,6 +12,7 @@
 
 - [smiley-sans](https://github.com/atelier-anchor/smiley-sans) - A Chinese black body that seeks a balance between humanistic perception and geometric features
 - [LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An open-source Chinese font derived from Fontworks' Klee One
+- [chinese-free-web-font-storage](https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch) -  A library for placing Chinese free Web fonts
 
 #### Tool
 

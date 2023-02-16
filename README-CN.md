@@ -12,6 +12,7 @@
 
 - [smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 一款在人文观感和几何特征中寻找平衡的中文黑体
 - [LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生
+- [chinese-free-web-font-storage](https://github.com/KonghaYao/chinese-free-web-font-storage/tree/branch) - 一个放置中文免费 web 字体的库
 
 #### 工具
 
