@@ -24,6 +24,7 @@
 - [chalk](https://github.com/chalk/chalk.git) -  Terminal string styling done right
 - [prompts](https://github.com/terkelg/prompts.git) - Lightweight, beautiful and user-friendly interactive prompts
 - [serve](https://github.com/vercel/serve.git) - Static file serving and directory listing
+- [slidev](https://github.com/slidevjs/slidev) - Presentation slides for developers
 - [vditor](https://github.com/Vanessa219/vditor.git) - An In-browser Markdown editor
 
 ## Additional
