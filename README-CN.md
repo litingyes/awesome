@@ -26,6 +26,7 @@
 - [serve](https://github.com/vercel/serve.git) - 一个部署静态文件站点服务的工具
 - [slidev](https://github.com/slidevjs/slidev) - 为开发者打造的演示文稿工具
 - [vditor](https://github.com/Vanessa219/vditor.git) - 一款浏览器端的 Markdown 编辑器
+- [vitepress](https://github.com/vuejs/vitepress) - Vite & Vue 驱动的静态网站生成工具
 
 ## 附加推荐
 

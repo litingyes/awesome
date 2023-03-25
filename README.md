@@ -26,6 +26,7 @@
 - [serve](https://github.com/vercel/serve.git) - Static file serving and directory listing
 - [slidev](https://github.com/slidevjs/slidev) - Presentation slides for developers
 - [vditor](https://github.com/Vanessa219/vditor.git) - An In-browser Markdown editor
+- [vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator
 
 ## Additional
 
