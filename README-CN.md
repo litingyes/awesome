@@ -11,6 +11,7 @@
 #### 框架
 
 - [react](https://github.com/facebook/react) - 用于构建 Web 和原生交互界面的库
+- [vue](https://github.com/vuejs/core) - 渐进式 JavaScript 框架
 
 #### 字体
 
